@@ -1,4 +1,6 @@
-Scripts:
+1. You should add valid API_KEY to every customer on './src/domain/customers.js'
+
+2. Scripts:
 
 yarn install
 
